@@ -14,7 +14,7 @@ Ser una institución de educación superior internacionalmente reconocida, con
 
 #### Desarrollo de Software
 
-El Técnico Superior Universitario en Tecnologías de la Información área Desarrollo de Software Multiplataforma, podrá desenvolverse en:
+El area en Tecnologías de la Información área Desarrollo de Software Multiplataforma, podrá desenvolverse en:
 
 - Organizaciones públicas y privadas dedicadas al desarrollo y consultoría de software.
 - Organizaciones públicas y privadas cuyo fin no sea el desarrollo de software en funciones de análisis, diseño, implementación, evaluación y venta de Software.
@@ -25,20 +25,26 @@ El Técnico Superior Universitario en Tecnologías de la Información área Desa
 
 #### Entornos Virtuales y Negocios Digitales
 
-El Técnico Superior Universitario en Tecnologías de la información área Entornos Virtuales y Negocios Digitales podrá desenvolverse en:
+El area en Tecnologías de la información área Entornos Virtuales y Negocios Digitales podrá desenvolverse en:
 
-Empresas públicas y privadas que demanden servicios de Tecnologías de la información preferentemente en desarrollo web, desarrollo de productos digitales, realidad virtual, realidad aumentada, manejo de redes sociales tales como:  
-
-- Empresa de servicios comerciales e industriales
-- Pequeñas y medianas empresas
-- Agencias de publicidad
-- Organismos públicos.
+- Organizaciones públicas y privadas dedicadas al desarrollo de aplicaciones para entornos virtuales.
+- Empresa de servicios comerciales e industriales.
+- Pequeñas y medianas empresas.
+- Agencias de publicidad.
 - Agencias de consultoría.
-- Propia empresa.
+- Profesionista independiente.
+- Casas productoras.
+- Agencias de social media.
+- Agencias enfocadas a la tecnología de la información.
+- Empresas de desarrollo de videojuegos y aplicaciones móviles.
+- Televisoras.
+- Industria del Entretenimiento.
+- Empresas emergentes o startups.
+- La industria turística.
 
 #### Infraestructura de Redes Digitales
 
-El Técnico Superior Universitario en Tecnologías de la Información área Infraestructura de Redes Digitales, podrá desenvolverse en:
+El area en Tecnologías de la Información área Infraestructura de Redes Digitales, podrá desenvolverse en:
 
 - Empresas públicas y privadas dedicadas al desarrollo y consultoría de software.
 - Empresas dedicadas a la venta e integración de servicios tecnológicos en infraestructura física y lógica.

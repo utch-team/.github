@@ -10,7 +10,7 @@ Somos una institución de educación superior tecnológica consolidada, inclu
 Ser una institución de educación superior internacionalmente reconocida, con un nivel académico y tecnológico de excelencia, que responda con prontitud y versatilidad a las aspiraciones de superación personal de sus educandos y a los requerimientos del sector productivo de bienes y servicios.
 
 
-## Areas de la organización
+## Areas del repositorio
 
 #### Desarrollo de Software
 
@@ -23,3 +23,18 @@ El Técnico Superior Universitario en Tecnologías de la Información área Ento
 #### Infraestructura de Redes Digitales
 
 El Técnico Superior Universitario en Tecnologías de la Información área Infraestructura de Redes Digitales cuenta con las competencias profesionales necesarias para su desempeño en el campo laboral, en el ámbito local, regional, nacional e internacional.
+## Used By
+
+This organization is used by the following people:
+
+- 1
+- 2
+- 3
+- 4
+- 5
+
+
+## Support
+
+For support, email nathanlazo@outlook.com or 
+

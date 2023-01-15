@@ -14,27 +14,50 @@ Ser una institución de educación superior internacionalmente reconocida, con
 
 #### Desarrollo de Software
 
-El Técnico Superior Universitario en Tecnologías de la Información área Desarrollo de Software Multiplataforma cuenta con las competencias profesionales necesarias para su desempeño en el campo laboral, en el ámbito local, regional, nacional e internacional.
+El Técnico Superior Universitario en Tecnologías de la Información área Desarrollo de Software Multiplataforma, podrá desenvolverse en:
+
+- Organizaciones públicas y privadas dedicadas al desarrollo y consultoría de software.
+- Organizaciones públicas y privadas cuyo fin no sea el desarrollo de software en funciones de análisis, diseño, implementación, evaluación y venta de Software.
+- Organizaciones públicas y privadas que cuenten con un área o departamento de TI.
+- En su propia empresa de integración de soluciones de software.
+- En los sectores público y social, así como de manera independiente en las diferentes ramas productivas que demanden servicios de Tecnologías de la información preferentemente en desarrollo de software multiplataforma.
+- En forma independiente mediante consultorías de bienes y servicios.
 
 #### Entornos Virtuales y Negocios Digitales
 
-El Técnico Superior Universitario en Tecnologías de la Información área Entornos Virtuales y Negocios Digitales cuenta con las competencias profesionales necesarias para su desempeño en el campo laboral, en el ámbito local, regional, nacional e internacional.
+El Técnico Superior Universitario en Tecnologías de la información área Entornos Virtuales y Negocios Digitales podrá desenvolverse en:
+
+Empresas públicas y privadas que demanden servicios de Tecnologías de la información preferentemente en desarrollo web, desarrollo de productos digitales, realidad virtual, realidad aumentada, manejo de redes sociales tales como:  
+
+- Empresa de servicios comerciales e industriales
+- Pequeñas y medianas empresas
+- Agencias de publicidad
+- Organismos públicos.
+- Agencias de consultoría.
+- Propia empresa.
 
 #### Infraestructura de Redes Digitales
 
-El Técnico Superior Universitario en Tecnologías de la Información área Infraestructura de Redes Digitales cuenta con las competencias profesionales necesarias para su desempeño en el campo laboral, en el ámbito local, regional, nacional e internacional.
+El Técnico Superior Universitario en Tecnologías de la Información área Infraestructura de Redes Digitales, podrá desenvolverse en:
+
+- Empresas públicas y privadas dedicadas al desarrollo y consultoría de software.
+- Empresas dedicadas a la venta e integración de servicios tecnológicos en infraestructura física y lógica.
+- Empresas privadas dedicadas a la proveeduría de servicios de Internet.
+- Empresas públicas y privadas cuyo fin no solo sea el desarrollo de software en funciones de análisis, diseño, implementación, evaluación y venta de tecnologías de información.
+- En cualquier empresa que requiera de la implementación y administración de servicios de red para eficientar sus procesos a partir de una base tecnológica.
+- En empresas públicas y privadas que manejen sistemas de información y comunicaciones digitales para eficientar sus procesos.
+- Empresas públicas y privadas en procesos de migración, evolución y crecimiento de su infraestructura tecnológica.
+- Empresas emergentes dedicadas a la innovación y el desarrollo tecnológico.
+- De forma independiente mediante consultorías de bienes y servicios.
+
 ## Used By
 
 This organization is used by the following people:
 
-- 1
-- 2
-- 3
-- 4
-- 5
+-  
 
 
 ## Support
 
-For support, email nathanlazo@outlook.com or 
+For support, email nathanlazo@outlook.com
 

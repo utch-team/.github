@@ -10,7 +10,7 @@ Somos una institución de educación superior tecnológica consolidada, inclu
 Ser una institución de educación superior internacionalmente reconocida, con un nivel académico y tecnológico de excelencia, que responda con prontitud y versatilidad a las aspiraciones de superación personal de sus educandos y a los requerimientos del sector productivo de bienes y servicios.
 
 
-## Areas del repositorio
+## Areas de la organización
 
 #### Desarrollo de Software
 

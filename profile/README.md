@@ -5,7 +5,7 @@
 # Universidad Tecnológica de Chihuahua
 
 ### Misión
-Somos una institución de educación superior tecnológica consolidada, incluyente, socialmente responsable y comprometida con la formación integral de profesionales, a través de un modelo educativo polivalente, intensivo, flexible y pertinente, estrechamente vinculada con los diversos sectores estratégicos con el fin de ofrecer servicios de calidad y vanguardia tecnológica, que contribuyan a mejorar la competitividad y el desarrollo sustentable del estado y del país.
+Somos comunidad tecnológica dedicada al desarrollo de software, consolidada, incluyente, socialmente responsable y comprometida con la formación integral de profesionales, a través de un modelo educativo polivalente, intensivo, flexible y pertinente, estrechamente vinculada con los diversos sectores estratégicos con el fin de ofrecer servicios de calidad y vanguardia tecnológica, que contribuyan a mejorar la competitividad y el desarrollo sustentable del estado y del país.
 ### Visión
 Ser una institución de educación superior internacionalmente reconocida, con un nivel académico y tecnológico de excelencia, que responda con prontitud y versatilidad a las aspiraciones de superación personal de sus educandos y a los requerimientos del sector productivo de bienes y servicios.
 
